@@ -1,3 +1,2 @@
 # Data Science Academy
-Exercícios de Matemática
-Matemática e Estatística aplicada para Data Science 
+1) Math-Stats-for-Data-Science
